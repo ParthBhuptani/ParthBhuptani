@@ -118,5 +118,5 @@ I'm always open to interesting projects, collaborations, and internship opportun
 ---
 
 <p align="center">
-  <i>⭐ If you find any of my projects useful, a star goes a long way!</i>
+  <i>The best ideas come to life when curious minds build together — let's make something worth shipping.</i>
 </p>
