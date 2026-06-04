@@ -39,7 +39,7 @@
 
 ---
 
-### 💸 [SplitSmart](https://github.com/ParthBhuptani/splitsmart)
+### 💸 [SplitSmart](https://github.com/ParthBhuptani/splitsmart) &nbsp;·&nbsp; [Live Demo →](https://splitsmart-expense.vercel.app)
 > AI-powered bill splitter — split expenses equally, by item, or by percentage
 
 - Supports 3 split modes: equal, itemized, and percentage-based
