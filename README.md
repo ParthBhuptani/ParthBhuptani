@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Parth Bhuptani 👋</h1>
 
 <p align="center">
-  <b>ICT Undergrad · AI & Full Stack Developer · Ahmedabad, India 🇮🇳</b><br/>
+  <b>ICT Undergrad · AI & Full Stack Developer · Ahmedabad, India </b><br/>
   Building real products with Python, TypeScript & React
 </p>
 
@@ -87,7 +87,6 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
