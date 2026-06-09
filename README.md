@@ -92,15 +92,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParthBhuptani&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="160" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthBhuptani&layout=compact&hide_border=true&theme=default" height="160" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParthBhuptani&hide_border=true&theme=default" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=ParthBhuptani&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ParthBhuptani&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthBhuptani&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
