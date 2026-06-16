@@ -94,7 +94,6 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=ParthBhuptani&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ParthBhuptani&theme=tokyonight&hide_border=true)
 
