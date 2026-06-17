@@ -23,7 +23,6 @@
 - 🤖 Love combining **machine learning + real interfaces** — not just notebooks, but deployed apps
 - 🌱 Currently deepening my skills in **LLMs, Next.js & system design**
 - 🔍 Actively looking for **internship opportunities** in AI / Full Stack development
-- ⚡ Fun fact: I planned an entire trip itinerary using an app I built myself
 
 ---
 
