@@ -9,6 +9,9 @@
   <a href="https://www.linkedin.com/in/parth-bhuptani">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://parthbhuptani.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
   <a href="mailto:parthbhuptani10@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
