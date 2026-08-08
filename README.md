@@ -31,6 +31,17 @@
 
 ## 🚀 Featured Projects
 
+### 🏋️ [FitTrack](https://github.com/ParthBhuptani/fittrack) &nbsp;&nbsp; [Live Demo](https://fittrack-planner.vercel.app/)
+
+- AI-powered personalized fitness & diet planning platform
+- Personalized workout and nutrition plans based on user goals and fitness data
+- Interactive dashboard with BMI, progress insights, workouts, and nutrition tracking
+- AI fitness assistant for personalized recommendations
+- Supabase-powered authentication and data management
+- **Stack:** `Next.js` `React` `TypeScript` `Supabase` `Tailwind CSS` `AI`
+
+---
+
 ### 🗺️ [AI Travel Planner](https://github.com/ParthBhuptani/ai-travel-planner) &nbsp;·&nbsp; [Live Demo →](https://ai-travel-planner1.streamlit.app/)
 > Plan multi-city India trips in seconds — AI-generated routes, smart budget split & day-wise itinerary
 
@@ -92,18 +103,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ParthBhuptani&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthBhuptani&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 📬 Let's Connect
 
