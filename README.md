@@ -31,7 +31,7 @@
 
 ## 🚀 Featured Projects
 
-### 🏋️ [FitTrack](https://github.com/ParthBhuptani/fittrack) &nbsp;&nbsp; [Live Demo](https://fittrack-planner.vercel.app/)
+### 🏋️ [FitTrack](https://github.com/ParthBhuptani/fittrack) &nbsp;·&nbsp; [Live Demo →](https://fittrack-planner.vercel.app/)
 
 - AI-powered personalized fitness & diet planning platform
 - Personalized workout and nutrition plans based on user goals and fitness data
