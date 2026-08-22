@@ -24,7 +24,7 @@
 
 - 🎓 Pursuing **B.Tech in ICT** — passionate about AI and building useful products
 - 🤖 Love combining **machine learning + real interfaces** — not just notebooks, but deployed apps
-- 🌱 Currently deepening my skills in **LLMs, Next.js & system design**
+- 🌱 Currently deepening my skills in **LLMs, Next.js, System design, and FastAPI**
 - 🔍 Actively looking for **internship opportunities** in AI / Full Stack development
 
 ---
