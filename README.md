@@ -38,7 +38,7 @@
 - Interactive dashboard with BMI, progress insights, workouts, and nutrition tracking
 - AI fitness assistant for personalized recommendations
 - Supabase-powered authentication and data management
-- **Stack:** `Next.js` `React` `TypeScript` `Supabase` `Tailwind CSS` `AI`
+- **Stack:** `React` `TypeScript` `Supabase` `Tailwind CSS` `AI`
 
 ---
 
