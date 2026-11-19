@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/parth-bhuptani">
+  <a href="https://www.linkedin.com/in/parthbhuptani">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://parthbhuptani.vercel.app">
+  <a href="https://parthbhuptani.me">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:parthbhuptani10@gmail.com">
@@ -109,7 +109,7 @@
 I'm always open to interesting projects, collaborations, and internship opportunities.
 
 <p>
-  <a href="https://www.linkedin.com/in/parth-bhuptani">
+  <a href="https://www.linkedin.com/in/parthbhuptani">
     <img src="https://img.shields.io/badge/Connect on LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
